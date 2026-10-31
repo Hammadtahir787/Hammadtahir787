@@ -1,7 +1,7 @@
 
 # Hi, I'm Hammad Tahir 👋
 
-**BS Artificial Intelligence @ DHA Suffa University (Class of 2027)** · COO @ Sabrion AI · Karachi, Pakistan
+**BS Artificial Intelligence @ DHA Suffa University (Class of 2027)** · Karachi, Pakistan
 
 I build practical computer vision and AI applications, from real-time perception systems to cross-platform apps, and I care about shipping things that actually run.
 
