@@ -41,9 +41,11 @@ I build practical computer vision and AI applications, from real-time perception
 
 ## 📫 Let's connect
 
-- LinkedIn: _add link_
-- Email: _add email_
-- Portfolio: _add link_
+- LinkedIn: https://www.linkedin.com/in/hammad-tahir-a45519319?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+- Email: hammadtahirfdc@gmail.com
+
+- Portfolio: https://my-portfolio-lemon-ten-45.vercel.app/
 
 ---
 
